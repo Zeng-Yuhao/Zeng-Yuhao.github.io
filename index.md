@@ -7,4 +7,4 @@ Machine Learning, Generative Models (VAE)
 
 ## Projects  
 ### VAE for MNIST Generation  
-[GitHub Link](https://github.com/用户名/VAE仓库)  
+[GitHub Link](https://github.com/Zeng-Yuhao/VAE)  
